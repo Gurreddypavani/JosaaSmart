@@ -35,7 +35,7 @@ To set up the JOSAASmart website project on your local machine, follow these ste
 4. Install the required libraries using pip:
 
    ```
-   pip install selenium pandas django mysqlclient
+   pip install beautifulsoup4 lxml pandas django mysqlclient matplotlib
    ```
 
    Ensure that you have Python and pip installed on your system, as well as a compatible web driver for selenium (e.g., ChromeDriver for Google Chrome).
